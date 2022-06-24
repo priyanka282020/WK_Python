@@ -25,4 +25,5 @@ for i in range(0,n):
     
 str = ['a','b','c','a']
 n = len(str)
-for 
+for i in range(0,n):
+    
